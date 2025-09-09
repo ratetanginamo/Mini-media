@@ -14,6 +14,8 @@ Mini-media is a simple **full-stack social media app** built with Node.js, Expre
 ---
 [![Node.js Package](https://github.com/ratetanginamo/Mini-media/actions/workflows/npm-publish.yml/badge.svg?branch=main&event=release)](https://github.com/ratetanginamo/Mini-media/actions/workflows/npm-publish.yml)
 
+![Badge](https://img.shields.io/badge/ratetanginamo-NEW%2520UPDATE%2520-4cc71e.svg)
+
 ---
 ## 🚀 Setup & Run
 
